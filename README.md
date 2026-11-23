@@ -4,6 +4,9 @@ A browser-based memory matching game where players flip cards to find matching p
 ## Game Preview
 <img width="1037" height="638" alt="Screenshot 2026-11-16 at 8 16 26 PM" src="https://github.com/user-attachments/assets/082ecbc7-8b80-4964-b226-3b477c91eb24" />
 
+## Live Demo
+[Play the Baby Card Matching Memory Game](https://card-matching-memory-game-hlcp.onrender.com)
+
 ## Features
 - 10 cards featuring 5 matching emoji pairs
 - Randomized card placement with each new game
